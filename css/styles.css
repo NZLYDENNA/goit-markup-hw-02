@@ -73,10 +73,6 @@ body {
 .servis .button-servis:focus{
     background-color: #404bbf;
 }
-.servis .button-servis:hover,
-.servis .button-servis:active {
-    background-color: #404bbf;
-}
 .button-servis {
     cursor: pointer;
 }
