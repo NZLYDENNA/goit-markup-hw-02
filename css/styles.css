@@ -28,9 +28,6 @@ body {
 .page-nav .link:focus {
     color: #404bbf;
 }
-.page-nav .link:active {
-    color: #404bbf;
-}
 .contacts-nav {
     font-style: normal;
 }
