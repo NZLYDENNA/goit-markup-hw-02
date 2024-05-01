@@ -23,6 +23,7 @@ body {
     color: #2e2f42;
 }
 .page-nav .link:hover,
+.page-nav .link:active,
 .page-nav .link:focus {
     color: #404bbf;
 }
