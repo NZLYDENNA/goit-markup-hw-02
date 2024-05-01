@@ -69,12 +69,11 @@ body {
     letter-spacing: 0.04em;
     color: #ffffff;
 }
-.servis .button-servis:hover {
+.servis .button-servis:hover,
+.servis .button-servis:focus{
     color: #404bbf;
 }
-.servis .button-servis:focus {
-    color: #404bbf;
-}
+.servis .button-servis:hover,
 .servis .button-servis:active {
     color: #404bbf;
 }
