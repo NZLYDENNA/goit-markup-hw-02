@@ -77,7 +77,7 @@ body {
 .servis .button-servis:active {
     color: #404bbf;
 }
-.servis .button-servis {
+.button-servis {
     cursor: pointer;
 }
 .description {
